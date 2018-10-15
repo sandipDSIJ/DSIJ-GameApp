@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--System Colors-->
+    <color name="colorPrimary">#f20506</color>
+    <color name="colorPrimaryDark">#af2525</color>
+    <color name="colorAccent">#2F343B</color>
+
+    <!--Font Colors-->
+    <color name="font_primary">#464646</color>
+    <color name="font_secondary">#959595</color>
+    <color name="font_ternary">#b7b7b7</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="whitish">#ffffffff</color>
+    <color name="grey600">#757575</color>
+    <color name="grey800">#424242</color>
+    <color name="black">#000000</color>
+
+
+    <color name="grey_10">#ebebeb</color>
+    <color name="transparent">#00ffffff</color>
+
+    <!--App Colors-->
+    <color name="font_header">@color/font_primary</color>
+    <color name="font_summery">@color/font_secondary</color>
+    <color name="font_hint">@color/font_ternary</color>
+    <color name="inactive_background">@color/grey_10</color>
+    <color name="active_background">@color/white</color>
+
+    <color name="font_primary_action">@color/colorPrimary</color>
+    <color name="font_secondary_action">@color/font_primary</color>
+
+    <color name="font_feed_header_new">@color/colorPrimary</color>
+    <color name="font_feed_header_older">@color/font_primary</color>
+    <color name="tab_deselected_text">#aaffffff</color>
+
+
+    <color name="font_inactive">#acacac</color>
+    <color name="font_active">@color/colorPrimary</color>
+
+    <color name="feed_header">#767676</color>
+
+</resources>
